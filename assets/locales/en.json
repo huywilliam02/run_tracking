@@ -1,0 +1,290 @@
+{
+    "SUCCESS": "Success",
+    "PAGE_NOT_FOUND": "Page not found",
+    "USER_NOT_FOUND": "User not found",
+    "AUTHORIZATION_ERROR": "Authorization Error",
+    "SOMETHING_WENT_WRONG": "Something went wrong",
+    "EMAIL_NOT_FOUND": "Email not found",
+    "EMAIL_ALREADY_EXISTS": "Email already exists",
+    "WRONG_PASSWORD": "Wrong password",
+    "PASSWORD_MINIMUM_CHARACTERS": "Password minimum 8 characters",
+    "MISSING_BEARER_TOKEN": "Missing authorization Bearer token",
+    "TOKEN_HAS_EXPIRED": "Token has expired",
+    "INVALID_EMAIL": "Invalid email",
+    "INVALID_DISTANCE": "Invalid distance",
+    "INVALID_GENDER": "Invalid gender",
+    "INVALID_BIRTHDAY": "Invalid birthday",
+    "INVALID_PAGE": "Invalid page",
+    "INVALID_PER_PAGE": "Invalid per_page",
+    "EMAIL_IS_REQUIRED": "Email is required",
+    "NAME_IS_REQUIRED": "Name is required",
+    "FIRST_NAME_IS_REQUIRED": "First name is required",
+    "LAST_NAME_IS_REQUIRED": "Last name is required",
+    "PHONE_IS_REQUIRED": "Phone is required",
+    "STUDENT_NAME_IS_REQUIRED": "Student name is required",
+    "DISTANCE_IS_REQUIRED": "Distance is required",
+    "PASSWORD_IS_REQUIRED": "Password is required",
+    "ADDRESS_IS_REQUIRED": "Address is required",
+    "WARD_IS_REQUIRED": "Ward is required",
+    "DISTRICT_IS_REQUIRED": "District is required",
+    "PROVINCE_IS_REQUIRED": "Province is required",
+    "common": {
+        "notification_title": "Notification",
+        "success": "Success",
+        "update_success": "Update successfully!",
+        "not_have_data": "Not have data",
+        "location": "Location",
+        "accept_location_irace": "Allow iRace use your location while using app.",
+        "need_accept": "Allow iRace use your location for tracking",
+        "allow": "Allow",
+        "location_off_parmanent": "Location Permission is denied permananently!",
+        "open_app_setting": "1. Open app setting",
+        "permission_app": "2. Permisstions",
+        "location_permiss": "3. Location",
+        "location_always": "4. Always allow",
+        "GPS_disable": "GPS disable",
+        "discard": "Discard",
+        "alert": "Alert!!",
+        "alert_content_discard": "Are you sure to discard this activity?",
+        "language_vi": "Tiếng Việt",
+        "language_en": "English",
+        "language": "Language",
+        "err_internet": "Error! Please check Internet.",
+        "sign_up_success": "Sign up successfully!",
+        "sign_in_success": "Login successfully!",
+        "err_format": "Wrong format",
+        "err_limited_weight": "Limited: 20-500",
+        "err_limited_height": "Limited: 50-250",
+        "forget_password": "Forget password",
+        "request_input_email": "Email",
+        "err_format_email": "Wrong format email",
+        "analysis": "Analysis",
+        "all_water_weekly": "Amount of water to drink in a week",
+        "all_water_month": "Amount of water to drink in a month",
+        "forget_password_send": "Please check email to reset password",
+        "step_setting_target": "Steps target must be integer and larger than 100",
+        "step_setting_title":"Step setting",
+        "target_step":"Steps target: "
+    },
+    "step_view": {
+        "step_title": "Steps",
+        "step_7_day": "Last 7 Days Steps: "
+    },
+    "start_page": {
+        "buttons": {
+            "login": "Login",
+            "sign_in": "Login",
+            "logout": "Logout",
+            "sign_in_fb": "Login with Facebook",
+            "sign_in_google": "Login with Google"
+        },
+        "text": {
+            "title": "The #1 app for runners and cyclists",
+            "already_member": "ALREADY A MEMBER"
+        }
+    },
+    "login_page": {
+        "buttons": {
+            "login": "Login"
+        },
+        "text": {
+            "title_app_bar": "Login",
+            "title_form": "Welcome to iRace Run Tracking",
+            "title_signup": "Sign up with email",
+            "text_hide_email": "Email",
+            "text_hide_password": "Password",
+            "forgot_password": "Forgot password?",
+            "title": "IRACE"
+        }
+    },
+    "basic_setting_page": {
+        "buttons": {
+            "ok": "OK",
+            "next": "Next",
+            "finish": "Finish"
+        },
+        "text": {
+            "bottom_sheet_title": "HI, WELCOME TO IRACE TRACKING",
+            "bottom_sheet_content": "I'm Richard, your personal fitness coach",
+            "bottom_sheet_description": "Before we get started, please let us know you better to help your set your personal fitness goal.",
+            "question_gender": "What's your gender?",
+            "question_gender_desciption": "Calories & Stride Length Calculation need it",
+            "gender_male": "Male",
+            "gender_female": "Female",
+            "question_weight": "How much your weight?",
+            "question_weight_description": "To personalize your fitness goal",
+            "question_tall": "How tall are you?",
+            "question_tall_deciption": "To personalize your fitness goal"
+        }
+    },
+    "change_password": {
+        "buttons": {
+            "update": "Update"
+        },
+        "text": {
+            "old_password": "Old Password",
+            "new_password": "New Password",
+            "confirm_password": "Confirm Password",
+            "validate_length_password": "Password must be have more 6 characters",
+            "validate_same_password": "Password retype must same"
+        }
+    },
+    "tab_mine_view": {
+        "buttons": {
+            "buttons": "Logout"
+        },
+        "text": {
+            "ID": "ID :",
+            "activities": "Activities",
+            "profile": "Edit Profile",
+            "setting_account": "Account Setting",
+            "setting_health": "Health Profile"
+        }
+    },
+    "tracking_detail_view": {
+        "text": {
+            "distance": "Distance",
+            "km": "Km",
+            "time": "Time",
+            "hour": "Hour",
+            "pace": "Pace",
+            "min_km": "min/km",
+            "split": "Split",
+            "elevation": "Elevation gain",
+            "gain": "Elevation gain",
+            "highest_elevation": "Highest elevation",
+            "m": "m",
+            "average_pace": "Average pace",
+            "maximum_pace": "Max pace",
+            "move_time": "Moving time",
+            "hours": "Hours",
+            "kcal": "Kcal",
+            "avg_speed": "Avg Speed",
+            "distance_km": "Distance (KM)",
+            "elevation_difference": "Elevation Difference",
+            "elevation_m": "Elevation (m)",
+            "pace_km": "PACE(MIN/KM)",
+            "analysis": "Analysis",
+            "sumary": "Sumary",
+            "max_speed": "Max Speed"
+        }
+    },
+    "tracking_map_view": {
+        "buttons": {
+            "start": "Start",
+            "pause": "Pause"
+        },
+        "text": {
+            "route": "Route",
+            "choosse_a_Sport": "Choosse a Sport",
+            "foot_sport": "Foot sport",
+            "run": "Run",
+            "ride": "Ride",
+            "gps": "GPS",
+            "min": "Time",
+            "km": "Km",
+            "pace_mk": "Pace (Min/Km)",
+            "kcal": "Kcal",
+            "speed_kmh": "Speed (km/h)"
+        }
+    },
+    "tracking_result_view": {
+        "buttons": {
+            "save": "Save",
+            "discard": "Discard"
+        },
+        "text": {
+            "title_expanded_one": "Title your run",
+            "title_expanded_two": "How'd it go? Share more about your activity and use @ to tag someone"
+        }
+    },
+    "tracking_drinkwater": {
+        "text": {
+            "today": "Today",
+            "drink_water": "Drink water",
+            "ml": "Ml",
+            "average": "Average amount of water this week:",
+            "disabled": "Disabled",
+            "water_today": "Amount of water drank today",
+            "this_week": "This week",
+            "target": "Target",
+            "title": "Most people need 2000 ml per day.",
+            "notify": "Notify",
+            "setting_notify": "Notification settings"
+        }
+    },
+    "edit_profile": {
+        "text": {
+            "edit_profile": "Edit profile",
+            "change_password": "Change password",
+            "email": "Email",
+            "name": "Name",
+            "birthday": "BirthDay : ",
+            "edit": "Edit",
+            "update": "Update",
+            "cancel": "Cancel"
+        }
+    },
+    "forget_password": {
+        "text": {
+            "back_login_page": "Back to login page",
+            "send_email": "Send email"
+        }
+    },
+    "sign_up_view": {
+        "text": {
+            "sign_up_appbar": "Sign Up",
+            "name": "Name",
+            "email": "Email",
+            "password": "Password",
+            "re_password": "Retype Password"
+        }
+    },
+    "tab_view": {
+        "text": {
+            "home_title_bar": "Home",
+            "profile_title_bar": "Profile",
+            "analysis_title_bar": "Analysis",
+            "plan_title_bar": "Plan"
+        }
+    },
+    "tab_home_view": {
+        "text": {
+            "detail": "Detail",
+            "best_record": "Best Record",
+            "best_record_distance": "LONGEST DISTANCE",
+            "best_record_longest": "LONGEST DURATION",
+            "best_record_pace": "BEST PACE",
+            "more": "More",
+            "recent_activity": "Recent activities",
+            "distance": "Distance: ",
+            "km": "Km",
+            "sync_data": "Syncing data...",
+            "today_title": "Today's habit",
+            "time": "Time: ",
+            "pace": "Pace: ",
+            "more_app_bar": "More record"
+        }
+    },
+    "tab_edit_health": {
+        "text": {
+            "weight": "Weight (Kg)",
+            "height": "Height (cm)",
+            "gender": "Gender:",
+            "save": "Save",
+            "birthday": "BirthDay:",
+            "health_app_bar": "Health Profile"
+        }
+    },
+    "step_view_text":{
+        "reset":"Reset",
+        "confirm_reset":"Are you sure to reset steps today?",
+        "cancel":"Cancel",
+        "sure":"Sure",
+        "reset_all":"Clear all record steps",
+        "confirm_reset_all":"Are you sure to reset all steps record?",
+        "reset_data_text":"Clear all record steps"
+
+
+    }
+}

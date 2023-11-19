@@ -1,0 +1,290 @@
+{
+    "SUCCESS": "Thành công",
+  "PAGE_NOT_FOUND": "Trang không tồn tại",
+  "USER_NOT_FOUND": "Người dùng không tồn tại",
+  "AUTHORIZATION_ERROR": "Lỗi xác thực",
+  "SOMETHING_WENT_WRONG": "Uiss có gì đó không ổn",
+  "EMAIL_NOT_FOUND": "Email không tồn tại",
+  "EMAIL_ALREADY_EXISTS": "Email đã tồn tại",
+  "WRONG_PASSWORD": "Sai mật khẩu",
+  "PASSWORD_MINIMUM_CHARACTERS": "Mật khẩu tối thiểu 8 kí tự",
+  "MISSING_BEARER_TOKEN": "Thiếu bearer token",
+  "TOKEN_HAS_EXPIRED": "Token hết hạn",
+  "INVALID_EMAIL": "Email không hợp lệ",
+  "INVALID_DISTANCE": "Quãng đường không hợp lệ",
+  "INVALID_GENDER": "Giới tính không hợp lệ",
+  "INVALID_BIRTHDAY": "Ngày sinh không hợp lệ",
+  "INVALID_PAGE": "Trang không hợp lệ",
+  "INVALID_PER_PAGE": "Số trang không hợp lệ",
+  "EMAIL_IS_REQUIRED": "Email bắt buộc phải có",
+  "NAME_IS_REQUIRED": "Tên bắt buộc phải có",
+  "FIRST_NAME_IS_REQUIRED": "First name is required",
+  "LAST_NAME_IS_REQUIRED": "Last name is required",
+  "PHONE_IS_REQUIRED": "Phone is required",
+  "STUDENT_NAME_IS_REQUIRED": "Student name is required",
+  "DISTANCE_IS_REQUIRED": "Distance is required",
+  "PASSWORD_IS_REQUIRED": "Password is required",
+  "ADDRESS_IS_REQUIRED": "Address is required",
+  "WARD_IS_REQUIRED": "Ward is required",
+  "DISTRICT_IS_REQUIRED": "District is required",
+  "PROVINCE_IS_REQUIRED": "Province is required",
+    "common": {
+        "notification_title": "Thông báo",
+        "success": "Thành công",
+        "update_success": "Cập nhật thành công!",
+        "not_have_data": "Không có dữ liệu",
+        "location": "Vị trí",
+        "accept_location_irace": "Cho phép iRace truy cập vị trí của bạn.",
+        "need_accept": "Cho phép iRace truy cập vị trí của bạn cho việc chạy bộ",
+        "allow": "Cho phép",
+        "location_off_parmanent": "Quyền truy cập vị trí bị tắt vĩnh viễn!",
+        "open_app_setting": "1. Cài đặt ứng dụng",
+        "permission_app": "2. Quyền",
+        "location_permiss": "3. Vị trí",
+        "location_always": "4. Luôn luôn cho phép",
+        "GPS_disable": "Định vị tắt",
+        "discard": "Hủy bản ghi",
+        "alert": "Cảnh báo!!",
+        "alert_content_discard": "Bạn có chắc chắn là muốn bỏ bản ghi?",
+        "language_vi": "Tiếng Việt",
+        "language_en": "Tiếng Anh",
+        "language": "Ngôn ngữ",
+        "err_internet": "Lỗi! Hãy kiểm tra lại kết nối internet",
+        "sign_up_success": "Đăng kí thành công!",
+        "sign_in_success":"Đăng nhập thành công!",
+        "err_format": "Sai định dạng",
+        "err_limited_weight": "Giới hạn: 20-500",
+        "err_limited_height": "Giới hạn: 50-250",
+        "forget_password": "Quên mật khẩu",
+        "request_input_email": "Vui lòng nhập email",
+        "err_format_email": "Sai định dạng email",
+        "analysis":"Thống kê",
+        "all_water_weekly":"Lượng nước uống trong tuần",
+        "all_water_month":"Lượng nước uống trong tháng",
+        "forget_password_send":"Link thay đổi mật khẩu đã được gửi Email vui lòng kiểm tra hộp thư",
+"step_setting_target":"Mục tiêu là một số nguyên và lớn hơn 100",
+        "step_setting_title":"Cài đặt bước chân",
+        "target_step":"Mục tiêu số bước chân: "
+
+    },
+    "step_view":{
+        "step_title":"Đếm bước chân",
+        "step_7_day":"Số bước chân 7 ngày gần nhất: "
+    },
+    "start_page": {
+        "buttons": {
+            "login": "Đăng nhập",
+            "sign_in": "Đăng nhập",
+            "logout": "Đăng xuất",
+            "sign_in_fb": "Đăng nhập với Facebook",
+            "sign_in_google": "Đăng nhập với Google"
+        },
+        "text": {
+            "title": "Ứng dụng #1 cho người tập luyện thể thao",
+            "already_member": "ĐÃ CÓ TÀI KHOẢN"
+        }
+    },
+    "login_page": {
+        "buttons": {
+            "login": "Đăng nhập"
+        },
+        "text": {
+            "title_app_bar": "Đăng nhập",
+            "title_form": "Chào mừng bạn đến với iRace Tracking",
+            "title_signup": "Đăng ký với email",
+            "text_hide_email": "Email",
+            "text_hide_password": "Mật khẩu",
+            "forgot_password": "Quên mật khẩu?",
+            "title": "IRACE"
+        }
+    },
+    "basic_setting_page": {
+        "buttons": {
+            "ok": "Ok luôn",
+            "next": "Kế tiếp",
+            "finish": "Kết thúc"
+        },
+        "text": {
+            "bottom_sheet_title": "Chào mừng đằng ấy đến với iRace Tracking",
+            "bottom_sheet_content": "Mình là Richard , huấn luyện viên của bạn",
+            "bottom_sheet_description": "Trước khi bắt đầu, hãy để mình hiểu rõ hơn về bạn nhé.",
+            "question_gender": "Giới tính của bạn là?",
+            "question_gender_desciption": "Điều này sẽ giúp ích trong việc tính toán năng lượng.",
+            "gender_male": "Nam",
+            "gender_female": "Nữ",
+            "question_weight": "Cân nặng của bạn là bao nhiêu?",
+            "question_weight_description": "Mình sẽ giúp bạn theo dõi từng ngày nhé",
+            "question_tall": "Chiều cao của bạn là?",
+            "question_tall_deciption": "Mỗi ngày có khi lại lên được thêm 1mm đó ^^"
+        }
+    },
+    "change_password": {
+        "buttons": {
+            "update": "Cập nhật"
+        },
+        "text": {
+            "old_password": "Mật khẩu cũ",
+            "new_password": "Mật khẩu mới",
+            "confirm_password": "Xác nhận mật khẩu mới",
+            "validate_length_password": "Độ dài tối thiểu là 6 kí tự",
+            "validate_same_password": "Xác nhận mật khẩu không đúng"
+        }
+    },
+    "tab_mine_view": {
+        "buttons": {
+            "buttons": "Đăng xuất"
+        },
+        "text": {
+            "ID": "ID :",
+            "activities": "Hoạt động",
+            "profile": "Hồ sơ",
+            "setting_account": "Cài đặt tài khoản",
+            "setting_health": "Hồ sơ sức khỏe"
+        }
+    },
+    "tracking_detail_view": {
+        "text": {
+            "distance": "Khoảng cách",
+            "km": "km",
+            "time": "Thời gian",
+            "hour": "Giờ",
+            "pace": "Pace",
+            "min_km": "min/km",
+            "split": "Tách ra",
+            "elevation": "Tổng độ cao tăng",
+            "gain": "Tăng độ cao",
+            "highest_elevation": "Độ cao đỉnh",
+            "m": "m",
+            "average_pace": "Pace trung bình",
+            "maximum_pace": "Pace tối đa",
+            "move_time": "Thời gian di chuyển",
+            "hours": "Giờ",
+            "kcal": "Kcal",
+            "avg_speed": "Tốc độ trung bình",
+            "distance_km": "Khoảng cách (KM)",
+            "elevation_difference": "Độ cao chênh lệch",
+            "elevation_m": "Độ cao (m)",
+            "pace_km": "Pace (Min/KM)",
+            "analysis": "Phân tích",
+            "sumary": "Tổng hợp",
+            "max_speed": "Vận tốc tối đa"
+        }
+    },
+    "tracking_map_view": {
+        "buttons": {
+            "start": "Bắt đầu",
+            "pause": "Kết thúc"
+        },
+        "text": {
+            "route": "Tuyến đường",
+            "choosse_a_Sport": "Chọn một môn thể thao",
+            "foot_sport": "Chạy bộ",
+            "run": "Chạy",
+            "ride": "Đạp xe",
+            "gps": "GPS",
+            "min": "Thời gian",
+            "km": "Km",
+            "pace_mk": "Pace (Min/Km)",
+            "kcal": "Kcal",
+            "speed_kmh": "Tốc độ (km/h)"
+        }
+    },
+    "tracking_result_view": {
+        "buttons": {
+            "save": "Lưu",
+            "discard": "Hủy"
+        },
+        "text": {
+            "title_expanded_one": "Đặt tiêu đề cho cuộc chạy của bạn",
+            "title_expanded_two": "Nó sẽ đi như thế nào? Chia sẻ thêm về hoạt động của bạn và sử dụng @ để gắn thẻ ai đó"
+        }
+    },
+    "tracking_drinkwater": {
+        "text": {
+            "today": "Hôm nay",
+            "drink_water": "Uống nước",
+            "ml": "Ml",
+            "average": "Trung bình lượng nước tuần này:",
+            "disabled": "Đã tắt",
+            "water_today": "Lượng nước đã uống hôm nay",
+            "this_week": "Tuần này",
+            "settings": "Cài đặt",
+            "target": "Mục tiêu",
+            "title": "Hầu hết mọi người cần 2000 ml mỗi ngày.",
+            "notify": "Thông báo",
+            "setting_notify": "Cài đặt thông báo"
+        }
+    },
+    "edit_profile": {
+        "text": {
+            "edit_profile": "Chỉnh sửa hồ sơ",
+            "change_password": "Đổi mật khẩu",
+            "email": "Email",
+            "name": "Họ và tên",
+            "birthday": "Năm sinh : ",
+            "edit": "Chỉnh sửa",
+            "update": "Cập nhật",
+            "cancel": "Thoát"
+        }
+    },
+    "forget_password": {
+        "text": {
+            "back_login_page": "Quay lại trang đăng nhập",
+            "send_email": "Gửi email"
+        }
+    },
+    "sign_up_view": {
+        "text": {
+            "sign_up_appbar": "Đăng kí",
+            "name": "Tên",
+            "email": "Email",
+            "password": "Mật khẩu",
+            "re_password": "Nhập lại mật khẩu"
+        }
+    },
+    "tab_view": {
+        "text": {
+            "home_title_bar": "Trang chủ",
+            "profile_title_bar": "Hồ sơ",
+            "analysis_title_bar": "Phân tích",
+            "plan_title_bar": "Kế hoạch"
+        }
+    },
+    "tab_home_view": {
+        "text": {
+            "detail": "Chi tiết",
+            "best_record": "Hoạt động tốt nhất",
+            "best_record_distance": "Quãng đường dài nhất",
+            "best_record_longest": "Thời gian lâu nhất",
+            "best_record_pace": "Pace tốt nhất",
+            "more": "Xem thêm",
+            "recent_activity": "Hoạt động",
+            "distance": "Quãng đường: ",
+            "km": "Km",
+            "sync_data": "Đang đồng bộ dữ liệu...",
+            "today_title": "Thói quen hôm nay",
+            "time": "Thời gian: ",
+            "pace": "Pace: ",
+            "more_app_bar": "Các bản ghi"
+        }
+    },
+    "tab_edit_health": {
+        "text": {
+            "weight": "Cân nặng (Kg)",
+            "height": "Chiều cao (cm)",
+            "gender": "Giới tính",
+            "save": "Lưu",
+            "birthday": "Ngày sinh:",
+            "health_app_bar": "Hồ sơ sức khỏe"
+        }
+    },
+    "step_view_text":{
+        "reset":"Làm mới",
+        "confirm_reset":"Bạn có muốn làm mới bộ đếm hôm nay?",
+        "cancel":"Hủy bỏ",
+        "sure":"Đồng ý",
+        "reset_all":"Làm mới",
+        "confirm_reset_all":"Bạn có muốn làm mới toàn bộ bản ghi?",
+        "reset_data_text":"Xóa hết bản ghi"
+    }
+}

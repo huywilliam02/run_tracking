@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644150716796",
+    "project_id": "deeplink-37850",
+    "storage_bucket": "deeplink-37850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644150716796:android:4daf9fa955044faba0dcf9",
+        "android_client_info": {
+          "package_name": "com.irance.tracking_app.tracker_run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644150716796-48cnf6hanu8nlrhvvi5gqf03ac26mb6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-7BqPWlxKGZR9cEB6oI4uJBqQtSj6OE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644150716796-48cnf6hanu8nlrhvvi5gqf03ac26mb6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
